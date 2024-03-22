@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rami-03
-- 👀 I’m interested in Software Development/Engineering
 - 📫 How to reach me: nully.0(discord)
 - 😄 Pronouns: He/Him
 
