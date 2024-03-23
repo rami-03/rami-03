@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @rami-03
-- 📫 How to reach me: nully.0(discord)
-- 😄 Pronouns: He/Him
+Hi, I’m @rami-03 
+I like spending my time coding and studying in the Network field of Computer Science.
+
+How to reach me: nully.0(discord)
 
 <!---
 rami-03/rami-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
